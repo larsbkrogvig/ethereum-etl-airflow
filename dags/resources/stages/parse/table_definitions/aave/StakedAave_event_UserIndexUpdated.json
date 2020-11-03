@@ -48,7 +48,7 @@
                 "type": "STRING"
             }
         ],
-        "table_description": "",
+        "table_description": "See https://docs.aave.com/developers/developing-on-aave/the-protocol/safety-module-stkaave",
         "table_name": "StakedAave_event_UserIndexUpdated"
     }
 }
